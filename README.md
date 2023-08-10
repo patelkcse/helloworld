@@ -1,2 +1,7 @@
-# helloworld
-a hello world repository
+#include <iostream>
+using namespace std;
+{
+int main()
+cout<<"helloworld";
+return0;
+}
